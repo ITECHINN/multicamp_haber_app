@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "846626927227",
+    "project_id": "multicamp-haber",
+    "storage_bucket": "multicamp-haber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846626927227:android:a76fe178d3726308ff68de",
+        "android_client_info": {
+          "package_name": "com.example.test_haber_proje"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846626927227-cc87hllid963pp9bk8ogk5ach7nob0sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.test_haber_proje",
+            "certificate_hash": "9aa7dd48b713d40fd9904c26cdc8dcc7c9e6dcc6"
+          }
+        },
+        {
+          "client_id": "846626927227-2vlijd0fgeouumab1t8c275nat2slvuh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH1fDKcVN-VD8DdzYQq8TT97W3Tjzet6Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846626927227-2vlijd0fgeouumab1t8c275nat2slvuh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
