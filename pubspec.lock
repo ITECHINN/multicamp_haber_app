@@ -801,9 +801,11 @@ packages:
   webfeed:
     dependency: "direct main"
     description:
-      name: webfeed
-      url: "https://pub.dartlang.org"
-    source: hosted
+      path: "."
+      ref: HEAD
+      resolved-ref: "0eee361db3d139cb059e45691d442c8b9140a98b"
+      url: "https://github.com/Adem68/webfeed.git"
+    source: git
     version: "0.6.0"
   webview_flutter:
     dependency: "direct main"

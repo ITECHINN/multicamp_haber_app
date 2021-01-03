@@ -26,7 +26,8 @@ dependencies:
   mobx: ^1.2.1+2
   share: ^0.6.5+4
   url_launcher: ^5.7.10
-  webfeed: ^0.6.0
+  webfeed:
+    git: https://github.com/Adem68/webfeed.git
   webview_flutter: ^1.0.7
 
 dev_dependencies:
